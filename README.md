@@ -1,8 +1,8 @@
 # Privacy Policy
 
-1. YTME: https://github.com/keisokoo/ytme
+## 1. YTME: https://github.com/keisokoo/ytme
 
-## Website Access
+### Website Access
 YTME는 다음에 액세스 할 수 있습니다.
 - www.youtube.com
 
@@ -17,7 +17,7 @@ YTME has access to
 
 YTME inserts content scripts and stylesheets when accessing YouTube. For this, it needs to work only when the current URL is YouTube. The code inserted in YTME checks whether the current YouTube video is in theater mode or on the main page. And the option values used in this program are saved in the local storage of the user's browser. This program does not collect any data.
 
-## Permissions
+### Permissions
 The extension [manifest](https://github.com/keisokoo/ytme/blob/master/public/manifest.json) has the following permissions listed
 
 Website Access : for content_scripts 
