@@ -2,6 +2,10 @@
 
 ## 1. YTME: https://github.com/keisokoo/ytme
 
+All data are stored offline in your browser.
+No data are transmitted to anywhere, ever.
+
+
 ### Website Access
 YTME는 다음에 액세스 할 수 있습니다.
 - www.youtube.com
