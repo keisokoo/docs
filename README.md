@@ -1,10 +1,14 @@
 # Privacy Policy
 
-## 1. YTME: https://github.com/keisokoo/ytme
+## 1. YTME - Youtube Theater Mode Expander: https://github.com/keisokoo/ytme
 
 - All data are stored offline in your browser.
 - No data are transmitted to anywhere, ever.
 
+My browser extensions do not collect personal information, do not collect your browsing history, and do not track your browsing activity. They do not collect data of any sort, and they do not inject ads.
+
+### Cookies
+No access any cookies.
 
 ### Website Access
 YTME는 다음에 액세스 할 수 있습니다.
