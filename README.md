@@ -2,8 +2,8 @@
 
 ## 1. YTME: https://github.com/keisokoo/ytme
 
-All data are stored offline in your browser.
-No data are transmitted to anywhere, ever.
+- All data are stored offline in your browser.
+- No data are transmitted to anywhere, ever.
 
 
 ### Website Access
