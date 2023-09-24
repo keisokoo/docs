@@ -10,6 +10,35 @@ My browser extensions do not collect personal information, do not collect your b
 ### Cookies
 No access any cookies.
 
+### Tab Access
+YTME는 사용자의 편의성을 위해 현재 이용중인 브라우저 탭을 읽습니다.
+
+YTME의 아이콘을 클릭했을 때,
+youtube페이지가 아니라면 이동하게 하거나,
+theater모드가 활성화 되었을때는 기능메뉴를 호출하도록 합니다.
+
+적절한 페이지에 메시지를 보내기 위해 tab의 이용권한이 필요합니다.
+
+YTME reads the current browser tabs in use for user convenience.
+
+When you click on the YTME icon,
+if it's not on a YouTube page, it will navigate there or,
+if theater mode is activated, it will bring up the functionality menu.
+
+Access to the tabs is required to send messages to the appropriate pages.
+
+
+### Storage
+YTME는 chrome의 storage를 사용합니다.
+
+YTME 사용자 설정은 옵션페이지에서 확인할 수 있으며, 세부 기능을 끄거나, 특정 스타일을 적용하거나,
+단축키를 사용할지 하지 않을지에 대한 값을 사용자가 지정할 수 있습니다.
+
+YTME uses Chrome's storage.
+
+User settings for YTME can be checked on the options page, and users can turn off specific features,
+apply certain styles, or decide whether or not to use shortcuts.
+
 ### Website Access
 YTME는 다음에 액세스 할 수 있습니다.
 - www.youtube.com
